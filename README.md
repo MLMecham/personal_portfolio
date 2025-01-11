@@ -8,4 +8,4 @@ Feel free to use any code found in any of my projects.
 
 # Projects
 
-* [First Python Project (temporary)]([https://docs.python.org/3/library/__main__.html#module-__main__](https://github.com/MLMecham/personal_portfolio/tree/main/first_python_project))
+* [First Python Project (temporary)]((https://github.com/MLMecham/personal_portfolio/tree/main/first_python_project))
