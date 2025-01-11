@@ -14,5 +14,4 @@ I used python version 3.11.4 to code this project
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python Standard Library](https://docs.python.org/3/library/__main__.html#module-__main__)
